@@ -14,3 +14,4 @@ class Student(models.Model):
         verbose_name_plural='Student'
         # verbose_name='Student'
         ordering=['stu_name']
+        
